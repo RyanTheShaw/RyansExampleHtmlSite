@@ -1,0 +1,18 @@
+/* this is an example of a tag selector */
+#main-header {
+    font-size: large;
+    
+}
+
+
+/* this is an example of a class selector */
+.shopping-image {
+    width: 800px;
+    margin: auto;
+}
+
+/* this is an example of an id selector */
+#main-header {
+    font-size: 6rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
